@@ -8,4 +8,4 @@ word_fr=voc['Définition'].values[i]
 word_chi=voc['Hanzi'].values[i]
 st.write(word_fr+" "+word_chi)
 st.button("refresh")
-indices=np.random.choices(l, siez=4,replace=False)
+indices=np.random.choices(l, size=4,replace=False)
