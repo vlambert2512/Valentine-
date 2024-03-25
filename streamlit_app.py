@@ -24,4 +24,3 @@ with col2:
 
 
 #st.button("Seconday button")  # st.button default type is secondary
-#st.button("Primary button", type="primary")
